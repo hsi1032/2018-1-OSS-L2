@@ -5,7 +5,10 @@
 [2018-1-OSS-L2 워드프레스 사이트](http://54.86.89.152/wordpress)  
 
 ## Projects
-* [Zulip](https://github.com/18-1-SKKU-OSS/zulip)
+* [algorithms](https://github.com/keon/algorithms)
+
+## Introduction
+[English](README_EN.md)
 
 ## Members
 박주영(aig031) : aig031@naver.com
