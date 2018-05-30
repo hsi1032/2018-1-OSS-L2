@@ -1,11 +1,11 @@
 # 기여 활동
 
 저희는 누구나로부터의 pull request도 환영할 준비가 되어있습니다. 이 저장소에 기여 함으로써, 당신은 [code of conduct]
-를 준수하는 것에 동의 한것입니다.(CODE_OF_CONDUCT.md).
+를 준수하는 것에 동의 한 것입니다.(CODE_OF_CONDUCT.md).
 
 ## 시작하기 
 
-* 우선 이 저장소를 [fork][fork] 하시고, 이를 사용하기 위해서 해주세요:
+* 우선 이 저장소를 [fork][fork] 하시고, 이를 사용하기 위해서 다음과 같이 clone 주세요:
 
     git clone git@github.com:your-username/algorithms.git  
 
