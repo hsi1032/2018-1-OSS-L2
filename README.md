@@ -25,6 +25,13 @@ There are minimal and clean example implementations of data structures and algor
 
 [日本語](CODE_OF_CONDUCT_JP.md)
 
+### Algorithm Implementation
+- [sort](sort)
+  - [bucket_sort](sort/bucket_sort.py)
+  - [shell_sort](sort/shell_sort.py)
+- [maths](maths)
+  - [lcm](maths/lcm.py)
+
 ## Members
 박주영([aig031](https://github.com/aig031)) : aig031@naver.com
 
