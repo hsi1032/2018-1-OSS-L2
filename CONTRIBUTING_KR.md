@@ -38,14 +38,15 @@
 * 코드에 대해 올바르게 주석 처리 해 주시고, 간단하게 알고리즘이 [docstrings][docstr]에서 수행하는 작업을 설명해 주세요.
 * 당신은 최소한의 예시를 사용함으로써 출력 값에 대하여 설명하실 수도 있습니다.
 * 알고리즘에 대하여, 두가지의 test cases를 포함 할 수 있도록 해주세요.
-* [good commit message][commit]를 .
+* [good commit message][commit]를 작성해주세요.
 
 
 ## Issues
-Submit a [new issue][newissue] if there is an algorithm to add, or if a bug was found in an existing algorithm. Before submitting a new issue please review the [existing issues][issues] to avoid creating duplicates. Also, consider resolving current issues or contributing to the discussion on an issue.
+만약 추가해야 할 알고리즘이 있거나, 현재 저희 프로젝트에 존재하는 어떤 알고리즘에서 고쳐야 할 버그가 발견된다면 [new issue][newissue]를 추가해주세요. 새로운 issue를 제안하기 전에 중복된 issue을 발생을 피하기 위해서 [existing issues][issues]를 확인해주세요. 또한, 현재 존재하는 issue를 해결하는 것을 고려해주시거나 issue에 대한 토의에 기여해주세요.
 
 ## Collaborators
-You can ask for any help or clarifications from the collaborators.  
+저희 협업자 들에게 어떤 도움이나 확인이 필요하다면, 위 주소로 물어봐주세요.
+
 [Keon Kim](https://github.com/keon)
 
 [Rahul Goswami](https://github.com/goswami-rahul)
