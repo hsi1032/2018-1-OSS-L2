@@ -1,7 +1,7 @@
 # 기여 활동
 
-저희는 누구나로부터의 pull request도 환영할 준비가 되어있습니다. 이 저장소에 기여 함으로써, 당신은 [code of conduct]
-를 준수하는 것에 동의 한것입니다.(CODE_OF_CONDUCT.md).
+저희는 누구나로부터의 pull request도 환영할 준비가 되어있습니다. 이 저장소에 기여 함으로써, 당신은 [code of conduct](CODE_OF_CONDUCT.md)
+를 준수하는 것에 동의 한 것입니다.
 
 ## 시작하기 
 
