@@ -8,11 +8,10 @@
 * [algorithms](https://github.com/keon/algorithms)
 
 ## What we have done
-### Translation
-#### README Files
+### README Files Translation
 [한국어](README_KR.md)
 [日本語](README_JP.md)
-#### CONTRIBUTING Files
+### CONTRIBUTING Files Translation
 [한국어](CONTRIBUTING_KR.md)
 [日本語](CONTRIBUTING_JP.md)
 
