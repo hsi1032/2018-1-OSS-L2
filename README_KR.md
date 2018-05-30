@@ -11,7 +11,7 @@ Python 3로 구현된 간단하고 명확한 자료구조와 알고리즘의 예
 
 ## 테스트 종류들
 
-### 단위별 테스트 사용
+### unittest 사용
 아래 명시된 모든 테스트 실행하기:
 
     $ python3 -m unittest discover tests
