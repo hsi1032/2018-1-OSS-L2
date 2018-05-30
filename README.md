@@ -11,7 +11,7 @@ This project is about **Pythonic Data Structure and Algorithms**.
 
 There are minimal and clean example implementations of data structures and algorithms in Python 3.
 
-## Our Contributions
+## Our Activities
 ### README Files Translation
 [한국어](README_KR.md)
 
@@ -20,7 +20,7 @@ There are minimal and clean example implementations of data structures and algor
 [한국어](CONTRIBUTING_KR.md)
 
 [日本語](CONTRIBUTING_JP.md)
-### CODE_OF_CONDUCT Translation
+### CODE_OF_CONDUCT Files Translation
 [한국어](CODE_OF_CONDUCT_KR.md)
 
 [日本語](CODE_OF_CONDUCT_JP.md)
@@ -31,6 +31,9 @@ There are minimal and clean example implementations of data structures and algor
   - [shell_sort](sort/shell_sort.py)
 - [maths](maths)
   - [lcm](maths/lcm.py)
+  
+## Merged Pull Requests
+- [Created README and CONTRIBUTING files in Japanese](https://github.com/keon/algorithms/pull/289)
 
 ## Members
 박주영([aig031](https://github.com/aig031)) : aig031@naver.com
