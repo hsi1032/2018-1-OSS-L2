@@ -14,6 +14,9 @@
 ### CONTRIBUTING Files Translation
 [한국어](CONTRIBUTING_KR.md)
 [日本語](CONTRIBUTING_JP.md)
+### CODE_OF_CONDUCT Translation
+[한국어](CODE_OF_CONDUCT_KR.md)
+[日本語](CODE_OF_CONDUCT_JP.md)
 
 ## Members
 박주영(aig031) : aig031@naver.com
