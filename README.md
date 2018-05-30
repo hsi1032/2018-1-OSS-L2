@@ -19,12 +19,12 @@
 [日本語](CODE_OF_CONDUCT_JP.md)
 
 ## Members
-박주영(aig031) : aig031@naver.com
+박주영([aig031](https://github.com/aig031)) : aig031@naver.com
 
-이건(lg970325) : lg970325@naver.com
+이건([lg970325](https://github.com/lg970325)) : lg970325@naver.com
 
-정지우(wldn0202) : wldn0202@naver.com
+정지우([wldn0202](https://github.com/wldn0202)) : wldn0202@naver.com
 
-현상익(hsi1032) : hsi1032@naver.com
+현상익([hsi1032](https://github.com/hsi1032)) : hsi1032@naver.com
 
-한상욱(9967han) : 9967han@naver.com
+한상욱([9967han](https://github.com/9967han)) : 9967han@naver.com
