@@ -1,19 +1,14 @@
-English | [简体中文](https://github.com/yunshuipiao/algorithms/blob/master/README_CN.md) | [Deutsch](README_GE.md)  
+English(README_EN.md) | [简体中文](README_CN.md) | [Deutsch](README_GE.md) | [한국어](README_KR.md) | 日本語
 
-[![Open Source Helpers](https://www.codetriage.com/keon/algorithms/badges/users.svg)](https://www.codetriage.com/keon/algorithms)
-[![Build Status](https://travis-ci.org/keon/algorithms.svg?branch=master)](https://travis-ci.org/keon/algorithms)
-[![Coverage Status](https://coveralls.io/repos/github/keon/algorithms/badge.svg?branch=master)](https://coveralls.io/github/keon/algorithms?branch=master)
-
-Pythonic Data Structures and Algorithms
+pythonのデータ構造とアルゴリズム
 =========================================
 
-Minimal and clean example implementations of data structures and algorithms in Python 3.
+Python 3で開発された簡単で明確なデータ構造とアルゴリズムの例を紹介します。
 
-## Contributing
-Thanks for your interest in contributing! There are many ways to contribute to this project. [Get started here](CONTRIBUTING.md)
+## 貢献
+貢献に興味を持っていただきありがとうございます。 このプロジェクトに貢献する方法はたくさんあります。 [簡単にコミュニティへ貢献するには](CONTRIBUTING.md)
 
-
-## Tests
+## テスト
 
 ### Use unittest
 For running all tests write down:
