@@ -1,28 +1,28 @@
 # 기여 활동
 
-저희는 누구나로부터의 pull request도 환영할 준비가 되어있습니다. By contributing to this repository, you
-agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
+저희는 누구나로부터의 pull request도 환영할 준비가 되어있습니다. 이 저장소에 기여 함으로써, 당신은 [code of conduct]
+를 준수하는 것에 동의 한것입니다.(CODE_OF_CONDUCT.md).
 
-## Get Started  
+## 시작하기 
 
-* First [fork][fork] the repository and then clone it using:
+* 우선 이 저장소를 [fork][fork] 하시고, 이를 사용하기 위해서 해주세요:
 
     git clone git@github.com:your-username/algorithms.git  
 
-* After that create a branch for your changes. For example:  
-  * add_XXX if you will add new algorithms or data structures.  
-  * fix_XXX if you will fixe a bug on a certain algorithm or data structure.  
-  * test_XXX if you wrote a test/s.  
+* 그리고 당신의 변화들을 만들기 위한 branch를 만들어주세요. 예를 들어:  
+  * add_XXX 만약 당신이 새로운 알고리즘이나 자료 구조를 추가 했을 경우.  
+  * fix_XXX 만약 당신이 어떤 알고리즘이나 자료 구조에서 고쳐야할 bug를 발견했을 경우.  
+  * test_XXX 만약 당신이 test/s를 작성한 경우.  
 
-You may contribute by:
-- implementing new algorithms in the repo. Be sure to keep it under
-right section (e.g. [array](array), [dp](dp), etc). Make a new section for it if
-it doesn't fall under any section. Make sure that your implementation works.  
-- optimizing or improving the existing algorithms.
-- adding a different solution for the problem.
-- finding and fixing bugs.
-- adding examples to explain the algorithms better.
-- adding test cases.
+당신은 다음과 같이 기여할 수 있습니다:
+- repo에 새로운 알고리즘들을 성립하세요. 단, 그것이 정확한 섹션 아래에 있도록 하세요(e.g. [array](array), [dp](dp), etc).
+만약 어떤 섹션에도 포함이 되지 않을 경우, 이를 위한 새로운 섹션을 만드세요. 단, 당신의 알고리즘이 확실히 작동함을
+확인하세요.  
+- 존재하는 알고리즘을 최적화하거나 향상시켜주세요.
+- 문제에 대한 다른 해결법을 추가해주세요.
+- f버그들을 찾거나 고쳐주세요.
+- 더 다은 알고리즘들을 설명하기 위해 예시들을 추가해주세요.
+- 실험 예시들을 추가해주세요.
 
 ## Pull Requests
 Push to your fork and [submit a pull request][pr].
