@@ -3,9 +3,10 @@
 저희는 누구나로부터의 pull request도 환영할 준비가 되어있습니다. 이 저장소에 기여 함으로써, 당신은 [code of conduct](CODE_OF_CONDUCT.md)
 를 준수하는 것에 동의 한 것입니다.
 
+
 ## 시작하기 
 
-* 우선 이 저장소를 [fork][fork] 하시고, 이를 사용하기 위해서 해주세요:
+* 우선 이 저장소를 [fork][fork] 하시고, 이를 사용하기 위해서 다음과 같이 clone 주세요:
 
     git clone git@github.com:your-username/algorithms.git  
 
@@ -25,19 +26,19 @@
 - 실험 예시들을 추가해주세요.
 
 ## Pull Requests
-Push to your fork and [submit a pull request][pr].
+당신의 fork에 push 하고 pull request를 제출하세요 [submit a pull request][pr].
 
-We will review and may suggest some changes or improvements or alternatives.
-Some things that will increase the chance that your pull request is accepted:
+우리는 이를 검토할 것이며, 몇몇 변화, 개량, 대안을 제시할 수 도 있을 것입니다.
+당신의 pull request가 허용될 가능성을 높여주는 몇몇 요소들이 있습니다:
 
-* All algorithms should be written in **Python 3**.
-(There are a few algorithms still in _Python 2_ syntax. You can start by converting
+* 모든 알고리즘들은 **Python 3**로 작성되어야 합니다.
+(몇몇 알고리즘들은 여전히 _python 2_ 로 작성되어져 있습니다. 당신은 이를 전환 함으로써 기여를 시작할 수 도 있습니다.
 [those][issue120] to _Python 3_.)
-* Write clean and understandable code.
-* Properly comment the code and briefly explain what the algorithm is doing in the [docstrings][docstr].
-* You may also explain the output using a minimal example.
-* Try to also include a couple of test cases for the algorithm.
-* Write a [good commit message][commit].
+* 깔끔하고 이해할 수 있는 코드를 작성해주세요.
+* 코드에 대해 올바르게 주석 처리 해 주시고, 간단하게 알고리즘이 [docstrings][docstr]에서 수행하는 작업을 설명해 주세요.
+* 당신은 최소한의 예시를 사용함으로써 출력 값에 대하여 설명하실 수도 있습니다.
+* 알고리즘에 대하여, 두가지의 test cases를 포함 할 수 있도록 해주세요.
+* [good commit message][commit]를 .
 
 
 ## Issues
