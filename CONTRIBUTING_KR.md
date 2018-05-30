@@ -1,6 +1,6 @@
-# Contributing
+# 기여 활동
 
-We love pull requests from everyone. By contributing to this repository, you
+저희는 누구나로부터의 pull request도 환영할 준비가 되어있습니다. By contributing to this repository, you
 agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Get Started  
