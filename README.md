@@ -7,12 +7,14 @@
 ## Projects
 * [algorithms](https://github.com/keon/algorithms)
 
-## Introduction
-[English](README_EN.md)
-[简体中文](README_CN.md)
-[Deutsch](README_GE.md)
+## What we have done
+### Translation
+#### README Files
 [한국어](README_KR.md)
 [日本語](README_JP.md)
+#### CONTRIBUTING Files
+[한국어](CONTRIBUTING_KR.md)
+[日本語](CONTRIBUTING_JP.md)
 
 ## Members
 박주영(aig031) : aig031@naver.com
