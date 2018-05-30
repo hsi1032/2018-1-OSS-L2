@@ -1,4 +1,4 @@
-English(README_EN.md) | [简体中文](README_CN.md) | [Deutsch](README_GE.md) | 한국어
+English(README_EN.md) | [简体中文](README_CN.md) | [Deutsch](README_GE.md) | 한국어 | [日本語](README_JP.md)
 
 Pythonic 버전 자료구조 및 알고리즘
 =========================================
@@ -9,28 +9,29 @@ Python 3로 구현된 간단하고 명확한 자료구조와 알고리즘의 예
 기여에 관심을 주셔서 감사합니다! 이 프로젝트에 기여할 수 있는 방법은 많습니다. [기여 방법 소개](CONTRIBUTING.md)
 
 
-## Tests
+## 테스트 종류들
 
-### Use unittest
-For running all tests write down:
+### 단위별 테스트 사용
+아래 명시된 모든 테스트 실행하기:
 
     $ python3 -m unittest discover tests
 
-For running some specific tests you can do this as following (Ex: sort):
+특정한 테스트 실행하기 위해선 아래 코드로 실행할 수 있습니다 (예시: sort):
 
     $ python3 -m unittest tests.test_sort
 
-### Use pytest
-For running all tests write down:
+### pytest 사용
+아래 명시된 모든 테스트 실행하기:
 
     $ python3 -m pytest tests
 
-## Install
-If you want to use the API algorithms in your code, it is as simple as:
+## 설치
+만약 당신이 API 알고리즘들을 당신의 코드에 사용하기를 원한다면, 아래 코드로 간단하게 실행할 수 있습니다:
 
     $ pip3 install git+https://github.com/keon/algorithms
 
 You can test by creating a python file: (Ex: use `merge_sort` in `sort`)
+당신은 python 파일을 만듦으로 테스트할 수 있습니다: (예시: 'sort'안에서 'merge_sort'사용)
 
 ```python3
 from sort import merge_sort
@@ -41,12 +42,12 @@ if __name__ == "__main__":
     print(my_list)
 ```
 
-## Uninstall
-If you want to uninstall algorithms, it is as simple as:
+## 삭제
+만약 당신이 알고리즘들을 삭제하기 원한다면, 아래 코드로 간단하게 실행할 수 있습니다:
 
     $ pip3 uninstall -y algorithms
 
-## List of Implementations
+## 구현 알고리즘 목록
 
 - [arrays](arrays)
     - [delete_nth](arrays/delete_nth.py)
