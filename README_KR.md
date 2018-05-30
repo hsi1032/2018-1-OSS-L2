@@ -30,7 +30,6 @@ Python 3로 구현된 간단하고 명확한 자료구조와 알고리즘의 예
 
     $ pip3 install git+https://github.com/keon/algorithms
 
-You can test by creating a python file: (Ex: use `merge_sort` in `sort`)
 당신은 python 파일을 만듦으로 테스트할 수 있습니다: (예시: 'sort'안에서 'merge_sort'사용)
 
 ```python3
