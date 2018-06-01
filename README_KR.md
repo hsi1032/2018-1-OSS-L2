@@ -284,7 +284,7 @@ if __name__ == "__main__":
         - [add_and_search](tree/trie/add_and_search.py)
         - [trie](tree/trie/trie.py)
     - [binary_tree_paths](tree/binary_tree_paths.py)
-    - [bintree2list : ](tree/bintree2list.py)
+    - [bintree2list](tree/bintree2list.py)
     - [deepest_left](tree/deepest_left.py)
     - [invert_tree](tree/invert_tree.py)
     - [is_balanced](tree/is_balanced.py)
@@ -314,4 +314,4 @@ if __name__ == "__main__":
 * [Saad](https://github.com/SaadBenn)
 
 그리고 이 저장소를 만드는데 도움을 준 [모든 기여자](https://github.com/keon/algorithms/graphs/contributors)
-들에게 감사를 표합니다.
+분 들에게 감사를 표합니다.
