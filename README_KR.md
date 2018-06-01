@@ -5,8 +5,8 @@ Python 버전 자료구조 및 알고리즘
 
 Python 3로 구현된 간단하고 명확한 자료구조와 알고리즘의 예를 소개합니다.
 
-## 기여
-기여에 관심을 주셔서 감사합니다! 이 프로젝트에 기여할 수 있는 방법은 많습니다. [기여 방법 소개](CONTRIBUTING.md)
+## 기여 활동
+프로젝트 활동 참여에 관심을 가져주셔서 감사합니다! 여러가지 방법으로 이 프로젝트에 기여해주세요. [기여 방법 소개](CONTRIBUTING.md)
 
 
 ## 테스트 종류들
@@ -25,7 +25,7 @@ Python 3로 구현된 간단하고 명확한 자료구조와 알고리즘의 예
 
     $ python3 -m pytest tests
 
-## 설치
+## 알고리즘 설치
 만약 당신이 API 알고리즘들을 당신의 코드에 사용하기를 원한다면, 아래 코드로 간단하게 실행할 수 있습니다:
 
     $ pip3 install git+https://github.com/keon/algorithms
@@ -41,14 +41,14 @@ if __name__ == "__main__":
     print(my_list)
 ```
 
-## 삭제
+## 알고리즘 삭제
 만약 당신이 알고리즘들을 삭제하기 원한다면, 아래 코드로 간단하게 실행할 수 있습니다:
 
     $ pip3 uninstall -y algorithms
 
 ## 구현 알고리즘 목록
 
-- [arrays](arrays)
+- [arrays : 배열](arrays)
     - [delete_nth](arrays/delete_nth.py)
     - [flatten](arrays/flatten.py)
     - [garage](arrays/garage.py)
@@ -62,7 +62,7 @@ if __name__ == "__main__":
     - [three_sum](arrays/three_sum.py)
     - [two_sum](arrays/two_sum.py)
     - [move_zeros_to_end](arrays/move_zeros_to_end.py)
-- [backtrack](backtrack)
+- [backtrack : 백트래킹](backtrack)
     - [general_solution.md](backtrack/)
     - [anagram](backtrack/anagram.py)
     - [array_sum_combinations](backtrack/array_sum_combinations.py)
@@ -78,10 +78,10 @@ if __name__ == "__main__":
     - [permute_unique](backtrack/permute_unique.py)
     - [subsets](backtrack/subsets.py)
     - [subsets_unique](backtrack/subsets_unique.py)
-- [bfs](bfs)
+- [bfs : 너비 우선 탐색](bfs)
     - [shortest_distance_from_all_buildings](bfs/shortest_distance_from_all_buildings.py)
     - [word_ladder](bfs/word_ladder.py)
-- [bit](bit)
+- [bit : 비트](bit)
     - [bytes_int_conversion](bit/bytes_int_conversion.py)
     - [count_ones](bit/count_ones.py)
     - [find_missing_number](bit/find_missing_number.py)
@@ -98,15 +98,15 @@ if __name__ == "__main__":
     - [has_alternative_bit](bit/has_alternative_bit.py)
     - [insert_bit](bit/insert_bit.py)
     - [remove_bit](bit/remove_bit.py)
-- [calculator](calculator)
+- [calculator : 계산기](calculator)
     - [math_parser](calculator/math_parser.py)
-- [dfs](dfs)
+- [dfs : 깊이 우선 탐색](dfs)
     - [all_factors](dfs/all_factors.py)
     - [count_islands](dfs/count_islands.py)
     - [pacific_atlantic](dfs/pacific_atlantic.py)
     - [sudoku_solver](dfs/sudoku_solver.py)
     - [walls_and_gates](dfs/walls_and_gates.py)
-- [dp](dp)
+- [dp : 동적 계획법](dp)
     - [buy_sell_stock](dp/buy_sell_stock.py)
     - [climbing_stairs](dp/climbing_stairs.py)
     - [coin_change](dp/coin_change.py)
@@ -125,7 +125,7 @@ if __name__ == "__main__":
     - [rod_cut](dp/rod_cut.py)
     - [word_break](dp/word_break.py)
     - [fibonacci](dp/fib.py)
-- [graph](graph)
+- [graph : 그래프](graph)
     - [strongly_connected](graph/checkDiGraphStronglyConnected.py)
     - [clone_graph](graph/clone_graph.py)
     - [cycle_detection](graph/cycle_detection.py)
@@ -137,12 +137,12 @@ if __name__ == "__main__":
     - [satisfiability](graph/satisfiability.py)
     - [tarjan](graph/tarjan.py)
     - [traversal](graph/traversal.py)
-- [heap](heap)
+- [heap : 힙](heap)
     - [merge_sorted_k_lists](heap/merge_sorted_k_lists.py)
     - [skyline](heap/skyline.py)
     - [sliding_window_max](heap/sliding_window_max.py)
     - [binary_heap](heap/binary_heap.py)
-- [linkedlist](linkedlist)
+- [linkedlist : 연결 리스트](linkedlist)
     - [add_two_numbers](linkedlist/add_two_numbers.py)
     - [copy_random_pointer](linkedlist/copy_random_pointer.py)
     - [delete_node](linkedlist/delete_node.py)
@@ -157,13 +157,13 @@ if __name__ == "__main__":
     - [swap_in_pairs](linkedlist/swap_in_pairs.py)
     - [is_sorted](linkedlist/is_sorted.py)
     - [remove_range](linkedlist/remove_range.py)
-- [map](map)
+- [map : 맵](map)
     - [hashtable](map/hashtable.py)
     - [separate_chaining_hashtable](map/separate_chaining_hashtable.py)
     - [longest_common_subsequence](map/longest_common_subsequence.py)
     - [randomized_set](map/randomized_set.py)
     - [valid_sudoku](map/valid_sudoku.py)
-- [maths](maths)
+- [maths : 수학 관련](maths)
     - [base_conversion](maths/base_conversion.py)
     - [extended_gcd](maths/extended_gcd.py)
     - [gcd/lcm](maths/gcd.py)
@@ -179,7 +179,7 @@ if __name__ == "__main__":
     - [rsa](maths/rsa.py)
     - [sqrt_precision_factor](maths/sqrt_precision_factor.py)
     - [summing_digits](maths/summing_digits.py)
-- [matrix](matrix)
+- [matrix : 행렬](matrix)
     - [sudoku_validator](matrix/sudoku_validator.py)
     - [bomb_enemy](matrix/bomb_enemy.py)
     - [copy_transform](matrix/copy_transform.py)
@@ -190,13 +190,13 @@ if __name__ == "__main__":
     - [sparse_dot_vector](matrix/sparse_dot_vector.py)
     - [sparse_mul](matrix/sparse_mul.py)
     - [spiral_traversal](matrix/spiral_traversal.py)
-- [queues](queues)
+- [queues : 큐](queues)
     - [max_sliding_window](queues/max_sliding_window.py)
     - [moving_average](queues/moving_average.py)
     - [queue](queues/queue.py)
     - [reconstruct_queue](queues/reconstruct_queue.py)
     - [zigzagiterator](queues/zigzagiterator.py)
-- [search](search)
+- [search : 탐색 알고리즘](search)
     - [binary_search](search/binary_search.py)
     - [first_occurance](search/first_occurance.py)
     - [last_occurance](search/last_occurance.py)
@@ -205,10 +205,10 @@ if __name__ == "__main__":
     - [search_range](search/search_range.py)
     - [find_min_rotate](search/find_min_rotate.py)
     - [search_rotate](search/search_rotate.py)
-- [set](set)
+- [set : 집합](set)
     - [randomized_set](set/randomized_set.py)
     - [set_covering](set/set_covering.py)
-- [sort](sort)
+- [sort : 정렬 알고리즘](sort)
     - [bubble_sort](sort/bubble_sort.py)
     - [comb_sort](sort/comb_sort.py)
     - [counting_sort](sort/counting_sort.py)
@@ -221,7 +221,7 @@ if __name__ == "__main__":
     - [sort_colors](sort/sort_colors.py)
     - [topsort](sort/topsort.py)
     - [wiggle_sort](sort/wiggle_sort.py)
-- [stack](stack)
+- [stack : 스택](stack)
     - [longest_abs_path](stack/longest_abs_path.py)
     - [simplify_path](stack/simplify_path.py)
     - [stack](stack/stack.py)
@@ -231,7 +231,7 @@ if __name__ == "__main__":
     - [is_consecutive](stack/is_consecutive.py)
     - [remove_min](stack/remove_min.py)
     - [is_sorted](stack/is_sorted.py)
-- [strings](strings)
+- [strings : 문자열](strings)
     - [fizzbuzz](strings/fizzbuzz.py)
     - [delete_reoccurring_characters](strings/delete_reoccurring_characters.py)
     - [strip_url_params](strings/strip_url_params.py)
@@ -255,8 +255,8 @@ if __name__ == "__main__":
     - [reverse_words](strings/reverse_words.py)
     - [roman_to_int](strings/roman_to_int.py)
     - [word_squares](strings/word_squares.py)
-- [tree](tree)
-    - [bst](tree/tree/bst)
+- [tree : 트리](tree)
+    - [bst : 이진 탐색 트리](tree/tree/bst)
         - [array2bst](tree/bst/array2bst.py)
         - [bst_closest_value](tree/bst/bst_closest_value.py)
         - [BSTIterator](tree/bst/BSTIterator.py)
@@ -272,15 +272,15 @@ if __name__ == "__main__":
         - [count_left_node](tree/bst/count_left_node.py)
         - [num_empty](tree/bst/num_empty.py)
         - [height](tree/bst/height.py)
-    - [red_black_tree](tree/red_black_tree)
+    - [red_black_tree : 레드-블랙 트리](tree/red_black_tree)
         - [red_black_tree](tree/red_black_tree/red_black_tree.py)
-    - [segment_tree](tree/segment_tree)
+    - [segment_tree : 세그먼트 트리](tree/segment_tree)
         - [segment_tree](tree/segment_tree/segment_tree.py)
-    - [traversal](tree/traversal)
+    - [traversal : 트리 순회](tree/traversal)
         - [inorder](tree/traversal/inorder.py)
         - [level_order](tree/traversal/level_order.py)
         - [zigzag](tree/traversal/zigzag.py)
-    - [trie](tree/trie)
+    - [trie : 트라이](tree/trie)
         - [add_and_search](tree/trie/add_and_search.py)
         - [trie](tree/trie/trie.py)
     - [binary_tree_paths](tree/binary_tree_paths.py)
@@ -300,11 +300,11 @@ if __name__ == "__main__":
     - [pretty_print](tree/pretty_print.py)
     - [same_tree](tree/same_tree.py)
     - [tree](tree/tree.py)
-- [union-find](union-find)
+- [union-find : 합집합 찾기](union-find)
     - [count_islands](union-find/count_islands.py)
 
-## Contributors
-The repo is maintained by
+## 기여자들
+이 저장소는 아래 사람들에 의해 유지되고 있습니다.
 
 * [Keon Kim](https://github.com/keon)
 * [Rahul Goswami](https://github.com/goswami-rahul)
@@ -313,5 +313,5 @@ The repo is maintained by
 * [Hai Hoang Dang](https://github.com/danghai)
 * [Saad](https://github.com/SaadBenn)
 
-And thanks to [all the contributors](https://github.com/keon/algorithms/graphs/contributors)
-who helped in building the repo.
+그리고 이 저장소를 만드는데 도움을 준 [모든 기여자](https://github.com/keon/algorithms/graphs/contributors)
+분 들에게 감사를 표합니다.
