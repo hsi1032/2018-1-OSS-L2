@@ -3,7 +3,7 @@ English(README_EN.md) | [简体中文](README_CN.md) | [Deutsch](README_GE.md) |
 Pythonic 버전 자료구조 및 알고리즘
 =========================================
 
-Python 3로 구현된 간단하고 명확한 자료구조와 알고리즘의 예를 소개합니다.
+Python 3로 구현된 간단하고 명확한 자료구조와 알고리즘들을 구현합니다.
 
 ## 기여 활동
 프로젝트 활동 참여에 관심을 가져주셔서 감사합니다! 여러가지 방법으로 이 프로젝트에 기여해주세요. [기여 방법 소개](CONTRIBUTING.md)
@@ -16,7 +16,7 @@ Python 3로 구현된 간단하고 명확한 자료구조와 알고리즘의 예
 
     $ python3 -m unittest discover tests
 
-특정한 테스트 실행하기 위해선 아래 코드로 실행할 수 있습니다 (예시: sort):
+특정 테스트 실행하기 위해선 아래 코드로 실행할 수 있습니다 (예시: sort):
 
     $ python3 -m unittest tests.test_sort
 
@@ -26,11 +26,11 @@ Python 3로 구현된 간단하고 명확한 자료구조와 알고리즘의 예
     $ python3 -m pytest tests
 
 ## 알고리즘 설치
-만약 당신이 API 알고리즘들을 당신의 코드에 사용하기를 원한다면, 아래 코드로 간단하게 실행할 수 있습니다:
+만약 API 알고리즘들을 당신의 코드에 사용하기를 원한다면, 아래 코드로 간단하게 실행할 수 있습니다:
 
     $ pip3 install git+https://github.com/keon/algorithms
 
-당신은 python 파일을 만듦으로 테스트할 수 있습니다: (예시: 'sort'안에서 'merge_sort'사용)
+그리고 python 파일을 만듦으로 테스트할 수 있습니다: (예시: 'sort'안에서 'merge_sort'사용)
 
 ```python3
 from sort import merge_sort
