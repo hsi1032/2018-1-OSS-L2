@@ -31,8 +31,9 @@ There are minimal and clean example implementations of data structures and algor
   - [shell_sort](sort/shell_sort.py)
   
 ## Merged Pull Requests
-- [Created README and CONTRIBUTING files in Japanese](https://github.com/keon/algorithms/pull/289)
-- [Created bucket_sort.py & shell_sort.py and Updated test_sort.py](https://github.com/keon/algorithms/pull/296)
+- [Created README and CONTRIBUTING files in Japanese](https://github.com/keon/algorithms/pull/289) : [이건](https://github.com/lg970325)
+- [Created bucket_sort.py & shell_sort.py and Updated test_sort.py](https://github.com/keon/algorithms/pull/296) : [이건](https://github.com/lg970325)
+- [Updated README files as reorganized + Added bucket and shell sorts in the list](https://github.com/keon/algorithms/pull/298) : [이건](https://github.com/lg970325)
 
 ## Members
 박주영([aig031](https://github.com/aig031)) : aig031@naver.com
