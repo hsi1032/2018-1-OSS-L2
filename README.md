@@ -1,6 +1,6 @@
 # 2018-1-OSS-L2
 ## Wiki
-[2018-1-OSS-L2 wiki 페이지](https://github.com/18-1-SKKU-OSS/2018-1-OSS-L2/wiki)
+[2018-1-OSS-L2 Wiki 페이지](https://github.com/18-1-SKKU-OSS/2018-1-OSS-L2/wiki)
 ## Static Page
 [2018-1-OSS-L2 워드프레스 사이트](http://54.86.89.152/wordpress)  
 
@@ -29,11 +29,10 @@ There are minimal and clean example implementations of data structures and algor
 - [sort](sort)
   - [bucket_sort](sort/bucket_sort.py)
   - [shell_sort](sort/shell_sort.py)
-- [maths](maths)
-  - [lcm](maths/lcm.py)
   
 ## Merged Pull Requests
 - [Created README and CONTRIBUTING files in Japanese](https://github.com/keon/algorithms/pull/289)
+- [Created bucket_sort.py & shell_sort.py and Updated test_sort.py](https://github.com/keon/algorithms/pull/296)
 
 ## Members
 박주영([aig031](https://github.com/aig031)) : aig031@naver.com
