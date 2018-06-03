@@ -24,6 +24,8 @@ There are minimal and clean example implementations of data structures and algor
 - [sort](sort)
   - [bucket_sort](sort/bucket_sort.py)
   - [shell_sort](sort/shell_sort.py)
+- [search](search)
+  - [jump_search](search/jump_search.py)
 ### Test Cases Creation/Updates
 - [sort_test](tests/test_sort.py)
   
