@@ -35,6 +35,7 @@ There are minimal and clean example implementations of data structures and algor
 - [(#297) Create README_KR.md file that is korean translation of README.md](https://github.com/keon/algorithms/pull/297) by [현상익](https://github.com/hsi1032)
 - [(#298) Updated README files as reorganized + Added bucket and shell sorts in the list](https://github.com/keon/algorithms/pull/298) by [이건](https://github.com/lg970325)
 - [(#300) Corrected link to Arrays/Josephus Problems](https://github.com/keon/algorithms/pull/300) by [이건](https://github.com/lg970325)
+- [(#302) Added link to Korean README in other README files](https://github.com/keon/algorithms/pull/302) by [한상욱](https://github.com/9967han)
 ## Members
 박주영([aig031](https://github.com/aig031)) : aig031@naver.com
 
