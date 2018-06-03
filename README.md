@@ -20,15 +20,12 @@ There are minimal and clean example implementations of data structures and algor
 [한국어](CONTRIBUTING_KR.md)
 
 [日本語](CONTRIBUTING_JP.md)
-### CODE_OF_CONDUCT Files Translation
-[한국어](CODE_OF_CONDUCT_KR.md)
-
-[日本語](CODE_OF_CONDUCT_JP.md)
-
 ### Algorithm Implementation
 - [sort](sort)
   - [bucket_sort](sort/bucket_sort.py)
   - [shell_sort](sort/shell_sort.py)
+### Test Cases Creation/Updates
+- [sort_test](tests/test_sort.py)
   
 ## Merged Pull Requests
 - [Created README and CONTRIBUTING files in Japanese](https://github.com/keon/algorithms/pull/289) by [이건](https://github.com/lg970325)
