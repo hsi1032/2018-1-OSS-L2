@@ -30,10 +30,10 @@ There are minimal and clean example implementations of data structures and algor
 - [sort_test](tests/test_sort.py)
   
 ## Merged Pull Requests
-- [(#289)Created README and CONTRIBUTING files in Japanese](https://github.com/keon/algorithms/pull/289) by [이건](https://github.com/lg970325)
-- [(#296)Created bucket_sort.py & shell_sort.py and Updated test_sort.py](https://github.com/keon/algorithms/pull/296) by [이건](https://github.com/lg970325)
-- [(#298)Updated README files as reorganized + Added bucket and shell sorts in the list](https://github.com/keon/algorithms/pull/298) by [이건](https://github.com/lg970325)
-- [(#300)Corrected link to Arrays/Josephus Problems](https://github.com/keon/algorithms/pull/300) by [이건](https://github.com/lg970325)
+- [(#289) Created README and CONTRIBUTING files in Japanese](https://github.com/keon/algorithms/pull/289) by [이건](https://github.com/lg970325)
+- [(#296) Created bucket_sort.py & shell_sort.py and Updated test_sort.py](https://github.com/keon/algorithms/pull/296) by [이건](https://github.com/lg970325)
+- [(#298) Updated README files as reorganized + Added bucket and shell sorts in the list](https://github.com/keon/algorithms/pull/298) by [이건](https://github.com/lg970325)
+- [(#300) Corrected link to Arrays/Josephus Problems](https://github.com/keon/algorithms/pull/300) by [이건](https://github.com/lg970325)
 ## Members
 박주영([aig031](https://github.com/aig031)) : aig031@naver.com
 
