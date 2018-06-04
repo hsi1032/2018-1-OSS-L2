@@ -25,16 +25,22 @@ There are minimal and clean example implementations of data structures and algor
   - [bucket_sort](sort/bucket_sort.py)
   - [shell_sort](sort/shell_sort.py)
 - [search](search)
-  - [jump_search](search/jump_sort.py)
+  - [jump_search](search/jump_search.py)
+  - [linear_search](search/linear_search.py)
+
 ### Test Cases Creation/Updates
 - [test_sort](tests/test_sort.py)
 - [test_search](tests/test_search.py)
   
 ## Merged Pull Requests
-- [Created README and CONTRIBUTING files in Japanese](https://github.com/keon/algorithms/pull/289) by [이건](https://github.com/lg970325)
-- [Created bucket_sort.py & shell_sort.py and Updated test_sort.py](https://github.com/keon/algorithms/pull/296) by [이건](https://github.com/lg970325)
-- [Updated README files as reorganized + Added bucket and shell sorts in the list](https://github.com/keon/algorithms/pull/298) by [이건](https://github.com/lg970325)
-
+- [(#289) Created README and CONTRIBUTING files in Japanese](https://github.com/keon/algorithms/pull/289) by [이건](https://github.com/lg970325)
+- [(#296) Created bucket_sort.py & shell_sort.py and Updated test_sort.py](https://github.com/keon/algorithms/pull/296) by [이건](https://github.com/lg970325)
+- [(#297) Create README_KR.md file that is korean translation of README.md](https://github.com/keon/algorithms/pull/297) by [현상익](https://github.com/hsi1032)
+- [(#298) Updated README files as reorganized + Added bucket and shell sorts in the list](https://github.com/keon/algorithms/pull/298) by [이건](https://github.com/lg970325)
+- [(#300) Corrected link to Arrays/Josephus Problems](https://github.com/keon/algorithms/pull/300) by [이건](https://github.com/lg970325)
+- [(#302) Added link to Korean README in other README files](https://github.com/keon/algorithms/pull/302) by [한상욱](https://github.com/9967han)
+- [(#303) Created radix_sort.py in algorithms/sort](https://github.com/keon/algorithms/pull/303) by [박주영](https://github.com/aig031)
+- [(#304) Created combination.py in maths](https://github.com/keon/algorithms/pull/304) by [이건](https://github.com/lg970325)
 ## Members
 박주영([aig031](https://github.com/aig031)) : aig031@naver.com
 
