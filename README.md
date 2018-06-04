@@ -21,11 +21,14 @@ There are minimal and clean example implementations of data structures and algor
 
 [日本語](CONTRIBUTING_JP.md)
 ### Algorithm Implementation
-- [sort](sort)
-  - [bucket_sort](sort/bucket_sort.py)
-  - [shell_sort](sort/shell_sort.py)
+- [sort](algorithms/sort)
+  - [bucket_sort](algorithms/sort/bucket_sort.py)
+  - [shell_sort](algorithms/sort/shell_sort.py)
+- [search](algorithms/search)
+  - [jump_search](algorithms/search/jump_sort.py)
 ### Test Cases Creation/Updates
-- [sort_test](tests/test_sort.py)
+- [test_sort](tests/test_sort.py)
+- [test_search](tests/test_search.py)
   
 ## Merged Pull Requests
 - [Created README and CONTRIBUTING files in Japanese](https://github.com/keon/algorithms/pull/289) by [이건](https://github.com/lg970325)
