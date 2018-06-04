@@ -21,11 +21,11 @@ There are minimal and clean example implementations of data structures and algor
 
 [日本語](CONTRIBUTING_JP.md)
 ### Algorithm Implementation
-- [sort](algorithms/sort)
-  - [bucket_sort](algorithms/sort/bucket_sort.py)
-  - [shell_sort](algorithms/sort/shell_sort.py)
-- [search](algorithms/search)
-  - [jump_search](algorithms/search/jump_sort.py)
+- [sort](sort)
+  - [bucket_sort](sort/bucket_sort.py)
+  - [shell_sort](sort/shell_sort.py)
+- [search](search)
+  - [jump_search](search/jump_sort.py)
 ### Test Cases Creation/Updates
 - [test_sort](tests/test_sort.py)
 - [test_search](tests/test_search.py)
