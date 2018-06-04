@@ -27,8 +27,10 @@ There are minimal and clean example implementations of data structures and algor
 - [search](search)
   - [jump_search](search/jump_search.py)
   - [linear_search](search/linear_search.py)
+
 ### Test Cases Creation/Updates
-- [sort_test](tests/test_sort.py)
+- [test_sort](tests/test_sort.py)
+- [test_search](tests/test_search.py)
   
 ## Merged Pull Requests
 - [(#289) Created README and CONTRIBUTING files in Japanese](https://github.com/keon/algorithms/pull/289) by [이건](https://github.com/lg970325)
