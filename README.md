@@ -21,6 +21,8 @@ There are minimal and clean example implementations of data structures and algor
 
 [日本語](CONTRIBUTING_JP.md)
 ### Algorithm Implementation
+- [maths](maths)
+  - [combination](maths/combination.py)
 - [sort](sort)
   - [bucket_sort](sort/bucket_sort.py)
   - [shell_sort](sort/shell_sort.py)
