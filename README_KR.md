@@ -166,6 +166,7 @@ if __name__ == "__main__":
 - [maths : 수학 계산](algorithms/maths)
     - [base_conversion](algorithms/maths/base_conversion.py)
     - [extended_gcd](algorithms/maths/extended_gcd.py)
+    - [fibonacci](algorithms/maths/fibonacci.py)
     - [gcd/lcm](algorithms/maths/gcd.py)
     - [generate_strobogrammtic](algorithms/maths/generate_strobogrammtic.py)
     - [is_strobogrammatic](algorithms/maths/is_strobogrammatic.py)
