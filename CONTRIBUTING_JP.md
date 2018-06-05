@@ -1,50 +1,47 @@
-# Contributing
+# 貢献
 
-We love pull requests from everyone. By contributing to this repository, you
-agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
+私たちは、誰からもプルリクエストを歓迎します。このレポジトリに貢献をするためには[Code of Conduct](CODE_OF_CONDUCT.md)を従うことを同意しなければなりません。
 
-## Get Started  
+## 始める
 
-* First [fork][fork] the repository and then clone it using:
+* まずリポジトリを[フォーク][fork]し,次を使用してクローンします.
 
     git clone git@github.com:your-username/algorithms.git  
 
-* After that create a branch for your changes. For example:  
-  * add_XXX if you will add new algorithms or data structures.  
-  * fix_XXX if you will fixe a bug on a certain algorithm or data structure.  
-  * test_XXX if you wrote a test/s.  
+* その後,変更のためのブランチを作成します. 例えば：
+  * add_XXX : 新しいアルゴリズムやデータ構造を追加する場合  
+  * fix_XXX : 特定のアルゴリズムやデータ構造のbugを修正する場合
+  * test_XXX : テストを作成する場合
 
-You may contribute by:
-- implementing new algorithms in the repo. Be sure to keep it under
-right section (e.g. [array](array), [dp](dp), etc). Make a new section for it if
-it doesn't fall under any section. Make sure that your implementation works.  
-- optimizing or improving the existing algorithms.
-- adding a different solution for the problem.
-- finding and fixing bugs.
-- adding examples to explain the algorithms better.
-- adding test cases.
+以下の方法で貢献できます:
+- レポジトリの新しいアルゴリズムを開発すること。 正しいセクションに保存してください(例: [array](array), [dp](dp), 等)。 どのセクションにも該当しない場合は、新しいセクションを作成します。 また、コードが正常に作動するかどうか確認してください。
+- 既存のアルゴリズムの最適化または改善。
+- 問題の他のソリューションを追加。
+- バグの検索と修正。
+- アルゴリズムをよりよく説明するための例を追加。
+- テストケースの追加。
 
-## Pull Requests
-Push to your fork and [submit a pull request][pr].
+## プルリクエスト
+フォークにプッシュして[プルリクエストを送信します][pr]。
 
-We will review and may suggest some changes or improvements or alternatives.
-Some things that will increase the chance that your pull request is accepted:
+私たちは、検討した後、変更、改善、代替案を提案することもできます。
+あなたのプルリクエストが受け入れられる可能性が高くなる方法：
 
-* All algorithms should be written in **Python 3**.
-(There are a few algorithms still in _Python 2_ syntax. You can start by converting
-[those][issue120] to _Python 3_.)
-* Write clean and understandable code.
-* Properly comment the code and briefly explain what the algorithm is doing in the [docstrings][docstr].
-* You may also explain the output using a minimal example.
-* Try to also include a couple of test cases for the algorithm.
-* Write a [good commit message][commit].
+* すべてのアルゴリズムは**Python 3**で開発されなければなりません。
+(まだPython 2で作成されたアルゴリズムがいくつかあります。これらをPython 3に転換する作業でスタートすることもできます。)
+* きれいで理解しやすいコードを作成する。
+* コードに適切なコメントを残して[docstrings][docstr]にアルゴリズムが何をしているのか簡単に説明する。
+* 小さな例を通じて出力を説明する。
+* アルゴリズムのテストケースをいくつか含ませる。
+* [good commit message][commit]を書く。
 
 
-## Issues
-Submit a [new issue][newissue] if there is an algorithm to add, or if a bug was found in an existing algorithm. Before submitting a new issue please review the [existing issues][issues] to avoid creating duplicates. Also, consider resolving current issues or contributing to the discussion on an issue.
+## イシュー
+追加するアルゴリズムがあったり、既存のアルゴリズムにバグが発見された場合の[new issue][newissue]を提出してください。 新たなイシューを提出する前に重複を避けるために、[existing issues][issues]を確認してください。 また、現在のイシューを解決したり論議中のイシューに貢献することも考慮してください。
 
-## Collaborators
-You can ask for any help or clarifications from the collaborators.  
+## コラボレータ
+コラボレータには,どのようなヘルプや説明も求めることができます.
+
 [Keon Kim](https://github.com/keon)
 
 [Rahul Goswami](https://github.com/goswami-rahul)
