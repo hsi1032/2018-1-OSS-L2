@@ -34,6 +34,7 @@ There are minimal and clean example implementations of data structures and algor
   
 ## Merged Pull Requests
 - [(#289) Created README and CONTRIBUTING files in Japanese](https://github.com/keon/algorithms/pull/289) by [이건](https://github.com/lg970325)
+-[(#290) Created CONTRIBUTING_KR.md in Korean](https://github.com/keon/algorithms/pull/290) by [박주영](https://github.com/aig031)
 - [(#296) Created bucket_sort.py & shell_sort.py and Updated test_sort.py](https://github.com/keon/algorithms/pull/296) by [이건](https://github.com/lg970325)
 - [(#297) Create README_KR.md file that is korean translation of README.md](https://github.com/keon/algorithms/pull/297) by [현상익](https://github.com/hsi1032)
 - [(#298) Updated README files as reorganized + Added bucket and shell sorts in the list](https://github.com/keon/algorithms/pull/298) by [이건](https://github.com/lg970325)
