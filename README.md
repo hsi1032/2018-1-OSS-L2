@@ -45,6 +45,8 @@ There are minimal and clean example implementations of data structures and algor
 - [(#303) Created radix_sort.py in algorithms/sort](https://github.com/keon/algorithms/pull/303) by [박주영](https://github.com/aig031)
 - [(#304) Created combination.py in maths](https://github.com/keon/algorithms/pull/304) by [이건](https://github.com/lg970325)
 - [(#305) Create linear_search.py in algorithms/search](https://github.com/keon/algorithms/pull/305) by [정지우](https://github.com/wldn0202)
+- [(#307) Added link to linear search in all README files](https://github.com/keon/algorithms/pull/307) by [정지우](https://github.com/wldn0202)
+
 ## Members
 박주영([aig031](https://github.com/aig031)) : aig031@naver.com
 
