@@ -168,6 +168,7 @@ if __name__ == "__main__":
     - [randomized_set](algorithms/map/randomized_set.py)
     - [valid_sudoku](algorithms/map/valid_sudoku.py)
 - [maths : 数学](algorithms/maths)
+    - [fibonacci](algorithms/maths/fibonacci.py)
     - [base_conversion](algorithms/maths/base_conversion.py)
     - [combination](algorithms/maths/combination.py)
     - [extended_gcd](algorithms/maths/extended_gcd.py)
