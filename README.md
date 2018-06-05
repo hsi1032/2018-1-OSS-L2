@@ -22,6 +22,7 @@ There are minimal and clean example implementations of data structures and algor
 [日本語](CONTRIBUTING_JP.md)
 ### Algorithm Implementation
 - [maths](maths)
+  - [fibonacci](maths/fibonacci.py)
   - [combination](maths/combination.py)
 - [sort](sort)
   - [bogo_sort](sort/bogo_sort.py)
