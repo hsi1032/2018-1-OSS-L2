@@ -23,6 +23,7 @@ There are minimal and clean example implementations of data structures and algor
 ### Algorithm Implementation
 - [maths](maths)
   - [combination](maths/combination.py)
+  - [factorial](maths/factorial.py)
   - [fibonacci](maths/fibonacci.py)
 - [sort](sort)
   - [bogo_sort](sort/bogo_sort.py)
@@ -48,6 +49,7 @@ There are minimal and clean example implementations of data structures and algor
 - [(#304) Created combination.py in maths](https://github.com/keon/algorithms/pull/304) by [이건](https://github.com/lg970325)
 - [(#305) Create linear_search.py in algorithms/search](https://github.com/keon/algorithms/pull/305) by [정지우](https://github.com/wldn0202)
 - [(#307) Added link to linear search in all README files](https://github.com/keon/algorithms/pull/307) by [정지우](https://github.com/wldn0202)
+- [(#309) Created factorial.py in algorithms/maths](https://github.com/keon/algorithms/pull/309) by [정지우](https://github.com/wldn0202)
 
 ## Members
 박주영([aig031](https://github.com/aig031)) : aig031@naver.com
