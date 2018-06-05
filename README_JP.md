@@ -1,6 +1,6 @@
-[English](README.md) | [简体中文](README_CN.md) | [Deutsch](README_GE.md) | 日本語
+[English](README.md) | [简体中文](README_CN.md) | [Deutsch](README_GE.md) | 日本語 | [한국어](README_KR.md)
 
-pythonのデータ構造とアルゴリズム
+Pythonのデータ構造とアルゴリズム
 =========================================
 
 Python 3で開発された簡単で明確なデータ構造とアルゴリズムの例を紹介します。
@@ -53,7 +53,7 @@ if __name__ == "__main__":
     - [delete_nth](algorithms/arrays/delete_nth.py)
     - [flatten](algorithms/arrays/flatten.py)
     - [garage](algorithms/arrays/garage.py)
-    - [josephus_problem](algorithms/arrays/josephus_problem.py)
+    - [josephus_problem](algorithms/arrays/josephus.py)
     - [max_ones_index](algorithms/arrays/max_ones_index.py)
     - [longest_non_repeat](algorithms/arrays/longest_non_repeat.py/)
     - [merge_intervals](algorithms/arrays/merge_intervals.py)
@@ -169,6 +169,7 @@ if __name__ == "__main__":
     - [valid_sudoku](algorithms/map/valid_sudoku.py)
 - [maths : 数学](algorithms/maths)
     - [base_conversion](algorithms/maths/base_conversion.py)
+    - [combination](algorithms/maths/combination.py)
     - [extended_gcd](algorithms/maths/extended_gcd.py)
     - [gcd/lcm](algorithms/maths/gcd.py)
     - [generate_strobogrammtic](algorithms/maths/generate_strobogrammtic.py)
@@ -209,6 +210,7 @@ if __name__ == "__main__":
     - [search_range](algorithms/search/search_range.py)
     - [find_min_rotate](algorithms/search/find_min_rotate.py)
     - [search_rotate](algorithms/search/search_rotate.py)
+    - [jump_search](algorithms/search/jump_search.py)
 - [set : セット](algorithms/set)
     - [randomized_set](algorithms/set/randomized_set.py)
     - [set_covering](algorithms/set/set_covering.py)
@@ -222,6 +224,7 @@ if __name__ == "__main__":
     - [meeting_rooms](algorithms/sort/meeting_rooms.py)
     - [merge_sort](algorithms/sort/merge_sort.py)
     - [quick_sort](algorithms/sort/quick_sort.py)
+    - [radix_sort](algorithms/sort/radix_sort.py)
     - [selection_sort](algorithms/sort/selection_sort.py)
     - [shell_sort](algorithms/sort/shell_sort.py)
     - [sort_colors](algorithms/sort/sort_colors.py)
