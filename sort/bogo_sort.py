@@ -1,6 +1,11 @@
 import random
 
 def bogo_sort(arr):
+    '''Bogo Sort
+        Best Case Complexity: O(n)
+        Worst Case Complexity: O(∞)
+        Average Case Complexity: O(n-n!)
+    '''
     while not inorder(arr):
         print(arr)
         random.shuffle(arr)
