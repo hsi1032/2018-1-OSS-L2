@@ -24,6 +24,7 @@ There are minimal and clean example implementations of data structures and algor
 - [maths](maths)
   - [combination](maths/combination.py)
 - [sort](sort)
+  - [bogo_sort](sort/bogo_sort.py)
   - [bucket_sort](sort/bucket_sort.py)
   - [shell_sort](sort/shell_sort.py)
 - [search](search)
