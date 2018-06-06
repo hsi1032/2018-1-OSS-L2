@@ -58,6 +58,7 @@ There are minimal and clean example implementations of data structures and algor
 - [(#302) Added link to Korean README in other README files](https://github.com/keon/algorithms/pull/302) by [한상욱](https://github.com/9967han)
 - [(#307) Added link to linear search in all README files](https://github.com/keon/algorithms/pull/307) by [정지우](https://github.com/wldn0202)
 - [(#312) Fixed links in README files](https://github.com/keon/algorithms/pull/312) by [이건](https://github.com/lg970325)
+- [(#316) Added link to OS Helpers, Build Status, and Coverage Status in README files.](https://github.com/keon/algorithms/pull/316) by [정지우](https://github.com/wldn0202)
 
 ## Issues
 - [Simulation code for sort algorithms](https://github.com/keon/algorithms/issues/315)
