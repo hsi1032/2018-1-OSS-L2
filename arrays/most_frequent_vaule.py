@@ -1,3 +1,7 @@
+"""
+this algorithms receive array and check most_frequent_value(a.k.a mode). Also, sometimes it can be have numerous most_frequent_value,
+so this funtion returns list. This result can be used as finding representative value on array.
+"""
 def most_frequent_value(arr):
     values = []
     #reserve each value which first appears
