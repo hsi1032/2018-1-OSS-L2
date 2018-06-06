@@ -15,5 +15,5 @@ def trimmean(arr, per):
         if i>(len(arr)*ratio-1) and i<(len(arr)-len(arr)*ratio):
             cal_sum += arr[i]
             count += 1
-    print(cal_sum, count)
+    #print(cal_sum, count)
     return cal_sum/count
