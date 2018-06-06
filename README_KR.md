@@ -61,6 +61,7 @@ if __name__ == "__main__":
     - [rotate_array](algorithms/arrays/rotate_array.py)
     - [summary_ranges](algorithms/arrays/summary_ranges.py)
     - [three_sum](algorithms/arrays/three_sum.py)
+    - [trimmean](algorithms/arrays/trimmean.py)
     - [two_sum](algorithms/arrays/two_sum.py)
     - [move_zeros_to_end](algorithms/arrays/move_zeros_to_end.py)
 - [backtrack : 백트래킹](algorithms/backtrack)
