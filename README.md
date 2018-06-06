@@ -46,6 +46,7 @@ There are minimal and clean example implementations of data structures and algor
 - [(#297) Create README_KR.md file that is korean translation of README.md](https://github.com/keon/algorithms/pull/297) by [현상익](https://github.com/hsi1032)
 ### Algorithm Implementation
 - [(#296) Created bucket_sort.py & shell_sort.py and Updated test_sort.py](https://github.com/keon/algorithms/pull/296) by [이건](https://github.com/lg970325)
+- [(#301)Created jump_seach in algorithms/seach](https://github.com/keon/algorithms/pull/301) by [현상익](https://github.com/hsi1032)
 - [(#303) Created radix_sort.py in algorithms/sort](https://github.com/keon/algorithms/pull/303) by [박주영](https://github.com/aig031)
 - [(#304) Created combination.py in maths](https://github.com/keon/algorithms/pull/304) by [이건](https://github.com/lg970325)
 - [(#305) Create linear_search.py in algorithms/search](https://github.com/keon/algorithms/pull/305) by [정지우](https://github.com/wldn0202)
