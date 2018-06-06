@@ -39,6 +39,3 @@ def bitonic_sort(arr, direction):
     arr = bitonic_merge(left + right, direction)
         
     return arr
-
-arr =[8,7,6,5,4,3,2,1]
-print(bitonic_sort(arr, True))
