@@ -51,7 +51,7 @@ There are minimal and clean example implementations of data structures and algor
 - [(#307) Added link to linear search in all README files](https://github.com/keon/algorithms/pull/307) by [정지우](https://github.com/wldn0202)
 - [(#308) Created bogo_sort.py in algorithms/sort](https://github.com/keon/algorithms/pull/308) by [한상욱](https://github.com/9967han)
 - [(#309) Created factorial.py in algorithms/maths](https://github.com/keon/algorithms/pull/309) by [정지우](https://github.com/wldn0202)
-
+- [(#312) Fixed links in README files](https://github.com/keon/algorithms/pull/312) by [이건](https://github.com/lg970325)
 ## Members
 박주영([aig031](https://github.com/aig031)) : aig031@naver.com
 
