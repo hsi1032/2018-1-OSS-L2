@@ -34,10 +34,14 @@ There are minimal and clean example implementations of data structures and algor
 - [search](search)
   - [jump_search](search/jump_search.py)
   - [linear_search](search/linear_search.py)
+- [arrays](arrays)
+  - [most_frequent_value](arrays/most_frequent_vaule.py)
+  - [trimmean](arrays/trimmean.py)
 
 ### Test Cases Creation/Updates
 - [test_sort](tests/test_sort.py)
 - [test_search](tests/test_search.py)
+- [test_array](tests/test_array.py)
   
 ## Merged Pull Requests
 ### Translation
