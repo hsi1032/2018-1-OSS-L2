@@ -56,6 +56,7 @@ if __name__ == "__main__":
     - [longest_non_repeat](algorithms/arrays/longest_non_repeat.py/)
     - [merge_intervals](algorithms/arrays/merge_intervals.py)
     - [missing_ranges](algorithms/arrays/missing_ranges.py)
+    - [most_frequent_value](algorithms/arrays/most_frequent_vaule.py)
     - [plus_one](algorithms/arrays/plus_one.py)
     - [rotate_array](algorithms/arrays/rotate_array.py)
     - [summary_ranges](algorithms/arrays/summary_ranges.py)
