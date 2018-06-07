@@ -1,4 +1,6 @@
 from algorithms.sort import (
+    bitonic_sort,
+    bogo_sort,
     bubble_sort,
     comb_sort,
     counting_sort,
@@ -16,6 +18,16 @@ import unittest
 
 
 class TestSuite(unittest.TestCase):
+    def test_bogo_sort(self):
+        self.assertEqual([1, 5, 23, 57, 65, 1232],
+                         bogo_sort([1, 5, 65, 23, 57, 1232]))
+    
+    def test_bitonic_sort(self):
+        self.assertEqual([1, 5, 23, 57, 65, 1232],
+                         bitonic_sort([1, 5, 65, 23, 57, 1232],True))
+        self.assertEqual([1232, 65, 57, 23, 5, 1],
+                         bitonic_sort([1, 5, 65, 23, 57, 1232],False))    
+        
     def test_bubble_sort(self):
         self.assertEqual([1, 5, 23, 57, 65, 1232],
                          bubble_sort([1, 5, 65, 23, 57, 1232]))
