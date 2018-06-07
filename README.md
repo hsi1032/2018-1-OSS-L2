@@ -68,6 +68,8 @@ There are minimal and clean example implementations of data structures and algor
 
 ## Issues
 - [Simulation code for sort algorithms](https://github.com/keon/algorithms/issues/315)
+- [Little difference between algorithms/arrays and test_array.py](https://github.com/keon/algorithms/issues/318)
+- [Add a logo image on the other README files](https://github.com/keon/algorithms/issues/326)
 
 ## Members
 박주영([aig031](https://github.com/aig031)) : aig031@naver.com
