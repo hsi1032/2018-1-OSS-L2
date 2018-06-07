@@ -26,7 +26,9 @@ There are minimal and clean example implementations of data structures and algor
   - [factorial](maths/factorial.py)
   - [fibonacci](maths/fibonacci.py)
 - [sort](sort)
+  - [bitonic_sort](sort/bitonic_sort.py)
   - [bogo_sort](sort/bogo_sort.py)
+  - [bubble_sort](sort/bubble_sort.py)
   - [bucket_sort](sort/bucket_sort.py)
   - [shell_sort](sort/shell_sort.py)
   - [cocktail_shaker_sort](sort/cocktail_shaker_sort.py)
@@ -58,6 +60,8 @@ There are minimal and clean example implementations of data structures and algor
 - [(#309) Created factorial.py in algorithms/maths](https://github.com/keon/algorithms/pull/309) by [정지우](https://github.com/wldn0202)
 - [(#310) Create cocktail_shaker_sort and add test case](https://github.com/keon/algorithms/pull/310) by [현상익](https://github.com/hsi1032)
 - [(#313) Created gnome sort in sort algorithm](https://github.com/keon/algorithms/pull/313) by [이건](https://github.com/lg970325)
+- [(#317) Create bitonic_sort.py in /algorithms/sort/ and update etc](https://github.com/keon/algorithms/pulls?q=is%3Apr+is%3Aclosed) by [현상익](https://github.com/hsi1032)
+- [(#327) Added simulation in bubble sort](https://github.com/keon/algorithms/pull/327) by [이건](https://github.com/lg970325)
 ### Page Organization
 - [(#298) Updated README files as reorganized + Added bucket and shell sorts in the list](https://github.com/keon/algorithms/pull/298) by [이건](https://github.com/lg970325)
 - [(#300) Corrected link to Arrays/Josephus Problems](https://github.com/keon/algorithms/pull/300) by [이건](https://github.com/lg970325)
