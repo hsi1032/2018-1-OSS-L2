@@ -35,7 +35,7 @@ There are minimal and clean example implementations of data structures and algor
   - [jump_search](search/jump_search.py)
   - [linear_search](search/linear_search.py)
 - [arrays](arrays)
-  - [most_frequent_value](arrays/most_frequent_vaule.py)
+  - [top_1](arrays/top_1.py)
   - [trimmean](arrays/trimmean.py)
 
 ### Test Cases Creation/Updates
