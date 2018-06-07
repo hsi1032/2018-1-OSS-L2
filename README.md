@@ -56,6 +56,8 @@ There are minimal and clean example implementations of data structures and algor
 - [(#305) Create linear_search.py in algorithms/search](https://github.com/keon/algorithms/pull/305) by [정지우](https://github.com/wldn0202)
 - [(#308) Created bogo_sort.py in algorithms/sort](https://github.com/keon/algorithms/pull/308) by [한상욱](https://github.com/9967han)
 - [(#309) Created factorial.py in algorithms/maths](https://github.com/keon/algorithms/pull/309) by [정지우](https://github.com/wldn0202)
+- [(#310) Create cocktail_shaker_sort and add test case](https://github.com/keon/algorithms/pull/310) by [현상익](https://github.com/hsi1032)
+- [(#313) Created gnome sort in sort algorithm](https://github.com/keon/algorithms/pull/313) by [이건](https://github.com/lg970325)
 ### Page Organization
 - [(#298) Updated README files as reorganized + Added bucket and shell sorts in the list](https://github.com/keon/algorithms/pull/298) by [이건](https://github.com/lg970325)
 - [(#300) Corrected link to Arrays/Josephus Problems](https://github.com/keon/algorithms/pull/300) by [이건](https://github.com/lg970325)
@@ -66,6 +68,8 @@ There are minimal and clean example implementations of data structures and algor
 
 ## Issues
 - [Simulation code for sort algorithms](https://github.com/keon/algorithms/issues/315)
+- [Little difference between algorithms/arrays and test_array.py](https://github.com/keon/algorithms/issues/318)
+- [Add a logo image on the other README files](https://github.com/keon/algorithms/issues/326)
 
 ## Members
 박주영([aig031](https://github.com/aig031)) : aig031@naver.com
