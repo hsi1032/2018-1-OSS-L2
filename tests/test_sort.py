@@ -4,6 +4,7 @@ from algorithms.sort import (
     bubble_sort,
     comb_sort,
     counting_sort,
+    cycle_sort,
     max_heap_sort, min_heap_sort,
     insertion_sort,
     merge_sort,
@@ -49,6 +50,10 @@ class TestSuite(unittest.TestCase):
         self.assertEqual([1, 5, 23, 57, 65, 1232],
                          min_heap_sort([1, 5, 65, 23, 57, 1232]))
 
+    def test_cycle_sort(self):
+        self.assertEqual([1, 5, 23, 57, 65, 1232],
+                         cycle_sort([1, 5, 65, 23, 57, 1232]))
+        
     def test_insertion_sort(self):
         self.assertEqual([1, 5, 23, 57, 65, 1232],
                          insertion_sort([1, 5, 65, 23, 57, 1232]))
