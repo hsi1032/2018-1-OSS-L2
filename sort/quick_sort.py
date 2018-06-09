@@ -6,8 +6,8 @@ def quick_sort(arr, simulation = False):
     iteration = 0
     if simulation:
         print("iteration",iteration,":",*arr)
-        
-    return quick_sort_recur(arr, 0, len(arr) - 1, iteration, simulation)
+    arr, _ = quick_sort_recur(arr, 0, len(arr) - 1, iteration, simulation)
+    return arr
 
 
 def quick_sort_recur(arr, first, last, iteration, simulation):
