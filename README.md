@@ -41,11 +41,13 @@ There are minimal and clean example implementations of data structures and algor
 - [arrays](arrays)
   - [top_1](arrays/top_1.py)
   - [trimmean](arrays/trimmean.py)
-
+- [bfs](bfs)
+  - [maze_search](bfs/maze_search.py)
 ### Test Cases Creation/Updates
 - [test_sort](tests/test_sort.py)
 - [test_search](tests/test_search.py)
 - [test_array](tests/test_array.py)
+- [test_bfs](tests/test_bfs.py)
   
 ## Merged Pull Requests
 ### Translation
