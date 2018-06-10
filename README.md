@@ -71,12 +71,13 @@ There are minimal and clean example implementations of data structures and algor
 - [(#310) Create cocktail_shaker_sort and add test case](https://github.com/keon/algorithms/pull/310) by [현상익](https://github.com/hsi1032)
 - [(#313) Created gnome sort in sort algorithm](https://github.com/keon/algorithms/pull/313) by [이건](https://github.com/lg970325)
 - [(#317) Create bitonic_sort.py in /algorithms/sort/ and update etc](https://github.com/keon/algorithms/pulls?q=is%3Apr+is%3Aclosed) by [현상익](https://github.com/hsi1032)
-- [(#327) Added simulation in bubble sort](https://github.com/keon/algorithms/pull/327) by [이건](https://github.com/lg970325)
-- [(#333) Added simulation features in insertion & selection sorts](https://github.com/keon/algorithms/pull/333) by [이건](https://github.com/lg970325)
 - [(#336) Created pancake_sort.py in algorithms/sort](https://github.com/keon/algorithms/pull/336) by [한상욱](https://github.com/9967han)
 - [(#338) Created cycle_sort.py in algorithms/sort](https://github.com/keon/algorithms/pull/338) by [한상욱](https://github.com/9967han)
 - [(#343) Created BFS maze_search.py and test case](https://github.com/keon/algorithms/pull/343) by [이건](https://github.com/lg970325)
 - [(#345) Created top_1.py & trimmean.py](https://github.com/keon/algorithms/pull/345) by [박주영](https://github.com/aig031)
+### Simulation Implementation
+- [(#327) Added simulation in bubble sort](https://github.com/keon/algorithms/pull/327) by [이건](https://github.com/lg970325)
+- [(#333) Added simulation features in insertion & selection sorts](https://github.com/keon/algorithms/pull/333) by [이건](https://github.com/lg970325)
 ### Page Organization
 - [(#298) Updated README files as reorganized + Added bucket and shell sorts in the list](https://github.com/keon/algorithms/pull/298) by [이건](https://github.com/lg970325)
 - [(#300) Corrected link to Arrays/Josephus Problems](https://github.com/keon/algorithms/pull/300) by [이건](https://github.com/lg970325)
