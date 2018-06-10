@@ -76,6 +76,7 @@ There are minimal and clean example implementations of data structures and algor
 - [(#336) Created pancake_sort.py in algorithms/sort](https://github.com/keon/algorithms/pull/336) by [한상욱](https://github.com/9967han)
 - [(#338) Created cycle_sort.py in algorithms/sort](https://github.com/keon/algorithms/pull/338) by [한상욱](https://github.com/9967han)
 - [(#343) Created BFS maze_search.py and test case](https://github.com/keon/algorithms/pull/343) by [이건](https://github.com/lg970325)
+- [(#345) Created top_1.py & trimmean.py](https://github.com/keon/algorithms/pull/345) by [박주영](https://github.com/aig031)
 ### Page Organization
 - [(#298) Updated README files as reorganized + Added bucket and shell sorts in the list](https://github.com/keon/algorithms/pull/298) by [이건](https://github.com/lg970325)
 - [(#300) Corrected link to Arrays/Josephus Problems](https://github.com/keon/algorithms/pull/300) by [이건](https://github.com/lg970325)
