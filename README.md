@@ -43,6 +43,9 @@ There are minimal and clean example implementations of data structures and algor
   - [trimmean](arrays/trimmean.py)
 - [bfs](bfs)
   - [maze_search](bfs/maze_search.py)
+- [tree](tree)
+  - [preorder](tree/preorder.py)
+  - [postorder](tree/postorder.py)
 ### Test Cases Creation/Updates
 - [test_sort](tests/test_sort.py)
 - [test_search](tests/test_search.py)
@@ -54,6 +57,7 @@ There are minimal and clean example implementations of data structures and algor
 - [(#289) Created README and CONTRIBUTING files in Japanese](https://github.com/keon/algorithms/pull/289) by [이건](https://github.com/lg970325)
 - [(#290) Created CONTRIBUTING_KR.md in Korean](https://github.com/keon/algorithms/pull/290) by [박주영](https://github.com/aig031)
 - [(#297) Create README_KR.md file that is korean translation of README.md](https://github.com/keon/algorithms/pull/297) by [현상익](https://github.com/hsi1032)
+- [(#341) Corrected small mistranslation in README_JP.md](https://github.com/keon/algorithms/pull/341) by [이건](https://github.com/lg970325)
 ### Algorithm Implementation
 - [(#296) Created bucket_sort.py & shell_sort.py and Updated test_sort.py](https://github.com/keon/algorithms/pull/296) by [이건](https://github.com/lg970325)
 - [(#301)Created jump_seach in algorithms/seach](https://github.com/keon/algorithms/pull/301) by [현상익](https://github.com/hsi1032)
