@@ -47,7 +47,7 @@ There are minimal and clean example implementations of data structures and algor
   - [postorder](algorithms/tree/postorder.py)
 - [graph](graph)
   - [check_bipartite](algorithms/graph/check_bipartite.py)
-### Simulation implementation
+### Simulation Implementation
 - [bubble_sort](simulations/bubble_sort.py)
 - [insertion_sort](simulations/insertion_sort.py)
 - [quick_sort](simulations/quick_sort.py)
