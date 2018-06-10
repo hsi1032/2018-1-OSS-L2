@@ -46,6 +46,8 @@ There are minimal and clean example implementations of data structures and algor
 - [tree](tree)
   - [preorder](tree/preorder.py)
   - [postorder](tree/postorder.py)
+- [graph](graph)
+  - [check_bipartite](graph/check_bipartite.py)
 ### Test Cases Creation/Updates
 - [test_sort](tests/test_sort.py)
 - [test_search](tests/test_search.py)
@@ -73,6 +75,7 @@ There are minimal and clean example implementations of data structures and algor
 - [(#333) Added simulation features in insertion & selection sorts](https://github.com/keon/algorithms/pull/333) by [이건](https://github.com/lg970325)
 - [(#336) Created pancake_sort.py in algorithms/sort](https://github.com/keon/algorithms/pull/336) by [한상욱](https://github.com/9967han)
 - [(#338) Created cycle_sort.py in algorithms/sort](https://github.com/keon/algorithms/pull/338) by [한상욱](https://github.com/9967han)
+- [(#343) Created BFS maze_search.py and test case](https://github.com/keon/algorithms/pull/343) by [이건](https://github.com/lg970325)
 ### Page Organization
 - [(#298) Updated README files as reorganized + Added bucket and shell sorts in the list](https://github.com/keon/algorithms/pull/298) by [이건](https://github.com/lg970325)
 - [(#300) Corrected link to Arrays/Josephus Problems](https://github.com/keon/algorithms/pull/300) by [이건](https://github.com/lg970325)
